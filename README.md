@@ -11,19 +11,18 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - Search Users
 - Follow Users
 - Display User Posts, Followers & Following
+- Real Time chat 
+- Add To Favorites
+- Notification Logic
+- Update user info  
 - EVERYTHING REAL TIME
 - Sign Out
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/BBccK1zTgxw) 
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/instagram-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
 
 
 ## Installation
-After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
+After cloning this repository, follow the following steps:
 - Create Firebase Project
 - Enable Authentication
 - Make Firestore Rules
@@ -44,5 +43,5 @@ Then run the following commands to run your app:
     
 ## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+If you have any feedback, please reach out to me at tricksteck@gmail.com
 
